@@ -1,4 +1,4 @@
-Olá, Kauai aqui!
+
 -  Atualemente cursando Ciências da Computação - uff
 - 🌱 Aprendendo Java e C++. Aperfeiçoando C
 
