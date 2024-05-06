@@ -1,20 +1,20 @@
-
 ## Kauai Pereira  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=AA42F7&width=435&lines=Seja+bem+vindo+ao+meu+perfil+:%29+;Prazer%2C+Kauai+Pereira.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=AA42F7&width=435&lines=Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
 ### About:
 Graduanting in the Computer science. My first contact with programming was in Python and today I expand my studies in other technologies such as Java and C (to study programming concepts).  
 My hobbies are music, games, reading and running &#127928; &#128187; &#128218; &#127939;  
 
-## Redes sociais
+## Social Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauai-pereira/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauaipereira/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kauaipereira33@gmail.com)
 
-## Linguagens
-<img align="center" alt="Kauai Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> <img align="center" alt="Kauai C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="center" alt="Kauai Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+## Languages
+ <img align="center" alt="Kauai Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Kauai C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Kauai Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 ## Hard Skills
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
